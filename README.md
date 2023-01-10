@@ -3,4 +3,4 @@ An application that simulates this game and prints the scores of all four player
 
 
 ## Preview
-![archerygame preview](https://user-images.githubusercontent.com/80782493/211174911-c4a9fdc1-3a9b-472e-8c8b-a9ec977881fb.png)
+![archerygame preview](https://user-images.githubusercontent.com/80782493/211514763-dfe87556-f491-41f7-9aaa-196a6528157c.png)
